@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import './Footer.css'; // Importing the CSS module
 /*import InstagramIcon from '@material-ui/icons/Instagram';*/
 // import TwitterIcon from '@material-ui/icons/Twitter';
